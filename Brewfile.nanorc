@@ -1,16 +1,7 @@
-# ========================================================================
-#
 # Brewfile.nanorc
-#
-# This file is part of tomkyle/dotfiles
-# <https://github.com/tomkyle/dotfiles>
-#
-# ========================================================================
+## Syntax highlighting for Homebrew Brewfiles
 
-
-## Syntax highlighting for Dockerfiles
 syntax "Brewfile" "Brewfile$"
-
 
 ## Keywords
 icolor red      "^(tap)[[:space:]]"

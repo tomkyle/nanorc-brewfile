@@ -18,6 +18,7 @@ Second, add the file to your **~/.nanorc** configuration file
 include "~/.nano/Brewfile.nanorc"
 ```
 
-## Screenshot
 
-![Screenshot image](Brewfile-screenshot.png?raw=true "Brewfile syntax highlighting in nano")
+<div align="center">
+    <img src="Brewfile-screenshot.png" width="400px" />
+</div>

@@ -18,3 +18,7 @@ Second, add the file to your **~/.nanorc** configuration file
 include "~/.nano/Brewfile.nanorc"
 ```
 
+
+<div align="center">
+    <img src="Brewfile-screenshot.png" width="400px" />
+</div>

@@ -8,7 +8,7 @@ First, clone the repo. Copy the **Brewfile.nanorc** into your `~/.nano/` directo
 
 ```
 $ git clone https://github.com/tomkyle/nanorc-brewfile.git
-$ cp nanorc-brewfile/Brefile.nanorc ~/.nano/
+$ cp nanorc-brewfile/Brewfile.nanorc ~/.nano/
 ```
 
 Second, add the file to your **~/.nanorc** configuration file 
